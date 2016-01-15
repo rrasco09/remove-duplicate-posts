@@ -1,7 +1,7 @@
 <?php  
 /*
 Plugin Name: Remove Duplicate Posts Cron
-Plugin URI: http://wordpress.org/#
+Plugin URI: https://github.com/rrasco09/remove-duplicate-posts
 Description: Schedules an hourly cron job which runs a MySQL query to remove duplicate posts
 Author: Robert Rasco
 Version: 1.0
