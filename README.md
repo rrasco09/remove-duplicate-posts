@@ -1,5 +1,5 @@
 # remove-duplicate-posts
-This is a simple plugin for WordPress that removes duplicate posts hourly utilizing wp-cron.
+This is a simple plugin for WordPress that removes duplicate posts hourly utilizing wp_cron.
 
 # usage scenarios
 Under ideal circumstances you should not have duplicate post entries but sometimes it happens. The FeedWordPress Plugin (https://wordpress.org/plugins/feedwordpress/) is notorious for duplicating posts and none of the current "duplicate post remover" plugins actually worked so I decided to write this small plugin to accomplish just that.
